@@ -3,7 +3,7 @@
     font-family: 'Asp-font-old';
     font-style: normal;
     font-weight: 300;
-    src: url('./.fonts/open-sans-v15-latin_latin-ext-300.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/open-sans-v15-latin_latin-ext-300.eot'); /* IE9 Compat Modes */
 }
 
 /* open-sans-regular - latin_latin-ext */
@@ -11,7 +11,7 @@
     font-family: 'Asp-font-old';
     font-style: normal;
     font-weight: 400;
-    src: url('./.fonts/open-sans-v15-latin_latin-ext-regular.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/open-sans-v15-latin_latin-ext-regular.eot'); /* IE9 Compat Modes */
  }
 
 /* open-sans-600 - latin_latin-ext */
@@ -19,7 +19,7 @@
     font-family: 'Asp-font-old';
     font-style: normal;
     font-weight: 600;
-    src: url('./.fonts/open-sans-v15-latin_latin-ext-600.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/open-sans-v15-latin_latin-ext-600.eot'); /* IE9 Compat Modes */
 }
 
 /* open-sans-700 - latin_latin-ext */
@@ -27,7 +27,7 @@
     font-family: 'Asp-font-old';
     font-style: normal;
     font-weight: 700;
-    src: url('./.fonts/open-sans-v15-latin_latin-ext-700.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/open-sans-v15-latin_latin-ext-700.eot'); /* IE9 Compat Modes */
 }
 
 /* roboto-regular - latin */
@@ -35,7 +35,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    src: url('./.fonts/roboto-v18-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/roboto-v18-latin-regular.eot'); /* IE9 Compat Modes */
 }
 
 /* roboto-500 - latin */
@@ -43,7 +43,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    src: url('./.fonts/roboto-v18-latin-500.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/roboto-v18-latin-500.eot'); /* IE9 Compat Modes */
 }
 
 /* roboto-700 - latin */
@@ -51,7 +51,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    src: url('./.fonts/roboto-v18-latin-700.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/roboto-v18-latin-700.eot'); /* IE9 Compat Modes */
 }
 
 /* Avast fonts */
@@ -59,38 +59,38 @@
  @font-face {
     font-family: 'Asp-font';
     font-weight: 700;
-    src: url('./.fonts/OpenSans-Bold.ttf'); /* IE9 Compat Modes */
+    src: url('./fonts/OpenSans-Bold.ttf'); /* IE9 Compat Modes */
 }
 @font-face {
     font-family: 'Asp-font';
     font-weight: bold;
-    src: url('./.fonts/OpenSans-Bold.ttf'); /* IE9 Compat Modes */
+    src: url('./fonts/OpenSans-Bold.ttf'); /* IE9 Compat Modes */
 }
 @font-face {
     font-family: 'Asp-font';
     font-weight: 800 900;
-    src: url('./.fonts/OpenSans-ExtraBold.ttf'); /* IE9 Compat Modes */
+    src: url('./fonts/OpenSans-ExtraBold.ttf'); /* IE9 Compat Modes */
 }
 @font-face {
     font-family: 'Asp-font';
     font-weight: 300;
-    src: url('./.fonts/OpenSans-Light.ttf'); /* IE9 Compat Modes */
+    src: url('./fonts/OpenSans-Light.ttf'); /* IE9 Compat Modes */
 }
 
 @font-face {
     font-family: 'Asp-font';
     font-weight: 500 600;
-    src: url('./.fonts/OpenSans-SemiBold.ttf'); /* IE9 Compat Modes */
+    src: url('./fonts/OpenSans-SemiBold.ttf'); /* IE9 Compat Modes */
 }
 
 @font-face {
     font-family: 'Asp-font';
     font-weight: 400;
-    src: url('./.fonts/OpenSans-Regular.ttf'); /* IE9 Compat Modes */
+    src: url('./fonts/OpenSans-Regular.ttf'); /* IE9 Compat Modes */
 }
 
 @font-face {
     font-family: 'Asp-font';
     font-weight: normal;
-    src: url('./.fonts/OpenSans-Regular.ttf'); /* IE9 Compat Modes */
+    src: url('./fonts/OpenSans-Regular.ttf'); /* IE9 Compat Modes */
 }
